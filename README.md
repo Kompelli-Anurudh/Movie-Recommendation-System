@@ -8,4 +8,20 @@ feature engineering, model selection, development, and evaluation. Building a mo
 recommendation system is a fundamental example of using machine learning to provide
 personalized content recommendations to users, with applications in streaming platforms, ecommerce, and more.
 
-![Passport Size_resized](https://github.com/user-attachments/assets/6818f151-5d01-42ff-9256-345ac44c4a82)
+# Pre - Requirements
+Install the python libraries
+1. pandas
+2. numpy
+3. difflib
+4. TfidfVectorizer
+5. sklearn.feature_extraction.text
+6. sklearn.metrics.pairwise
+7. cosine_similarity
+8. tkinter
+
+ Or, Simply run ```pip install -r requirements.txt```
+
+# How to Run
+After installing the requirements simple open the code in any of your favorite IDE and the ***movies.csv*** should be in the same folder.
+
+# Output 
