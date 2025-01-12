@@ -1,0 +1,8 @@
+pandas
+numpy
+difflib
+TfidfVectorizer
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
+cosine_similarity
+tkinter
