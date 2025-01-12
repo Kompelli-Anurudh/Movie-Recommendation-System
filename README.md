@@ -25,3 +25,6 @@ Install the python libraries
 After installing the requirements simple open the code in any of your favorite IDE and the ***movies.csv*** should be in the same folder.
 
 # Output 
+![1](https://github.com/user-attachments/assets/d9f101f8-4493-4d43-8ece-d11d76451581)![2](https://github.com/user-attachments/assets/f2286e2d-967d-46c0-8e50-d6300e96f39e)
+
+
